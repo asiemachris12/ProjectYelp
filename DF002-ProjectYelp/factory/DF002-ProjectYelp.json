@@ -1,0 +1,9 @@
+{
+	"name": "DF002-ProjectYelp",
+	"location": "southafricanorth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d203fcde-2f4f-488f-a01c-a95c7e8af40e",
+		"tenantId": "35ac085b-7d42-4ede-8dc5-5178b0da3195"
+	}
+}
