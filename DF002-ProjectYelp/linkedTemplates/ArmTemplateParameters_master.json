@@ -1,0 +1,21 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "DF002-ProjectYelp"
+		},
+		"LS001_Yelp_Soruce_Dataset_accountKey": {
+			"value": ""
+		},
+		"LS001_Yelp_Soruce_Dataset_properties_typeProperties_url": {
+			"value": "https://sg002projectpro1.dfs.core.windows.net/"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
