@@ -1,0 +1,12 @@
+{
+	"name": "LS001_Yelp_Soruce_Dataset",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobFS",
+		"typeProperties": {
+			"url": "https://sg002projectpro1.dfs.core.windows.net/",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDI4QUU0M0MzLTg3QkYtNDNCQi05N0Q4LTdFMEMxMzIxRTUwRV9hZTc3OThmNC02Y2YzLTRhMmEtYjFiNS00NDdmYjFkMDRlMjkiDQp9"
+		}
+	}
+}
