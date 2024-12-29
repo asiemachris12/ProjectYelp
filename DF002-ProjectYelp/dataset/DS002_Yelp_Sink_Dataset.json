@@ -1,0 +1,17 @@
+{
+	"name": "DS002_Yelp_Sink_Dataset",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "LS001_Yelp_Soruce_Dataset",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Binary",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobFSLocation",
+				"fileSystem": "02-projectyelp02"
+			}
+		}
+	}
+}
